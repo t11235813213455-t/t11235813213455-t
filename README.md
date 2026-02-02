@@ -6,18 +6,14 @@
 ---
 
  ### :books: Languages:
-  [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+  <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ---
 
  ### :woman_student: Online courses I have completed:
 [![Git and GitHub Basics](https://img.shields.io/badge/Git_and_GitHub_Basics-purple?logo=Git_and_GitHub_Basics)](https://stepik.org/cert/3113065?lang=en)
-
 [![Test automation using Selenium and Python](https://img.shields.io/badge/Test_automation_using_Selenium_and_Python-blue?logo=Test_automation_using_Selenium_and_Python)](https://stepik.org/cert/3021662?lang=en)
-
 [![Interactive SQL simulator](https://img.shields.io/badge/Interactive_SQL_simulator-green?logo=Interactive_SQL_simulator)](https://stepik.org/cert/3070618?lang=en)
-
 [![Java. Bacis course](https://img.shields.io/badge/Java_Basic_course-red?logo=Java_Basic_course)](https://stepik.org/cert/3098128?lang=en)
 
 ---
