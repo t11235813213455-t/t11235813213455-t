@@ -18,11 +18,10 @@
 
 [![Java. Bacis course](https://img.shields.io/badge/Java_Basic_course-red?logo=Java_Basic_course)](https://stepik.org/cert/3098128?lang=en)
 
+![Profile Views](https://hits.seeyoufarm.com/count?url=https%3A%2F%2Fgithub.com%2Ft11235813213455-t&title=Profile%20Views&color=blue&count=true)
+
 <!--
-**t112358/t112358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
