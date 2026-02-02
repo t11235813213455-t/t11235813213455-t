@@ -18,7 +18,7 @@
 
 [![Java. Bacis course](https://img.shields.io/badge/Java_Basic_course-red?logo=Java_Basic_course)](https://stepik.org/cert/3098128?lang=en)
 
-![Profile Views](https://github.com/t11235813213455-t/t11235813213455-t/blob/main/profile-views.svg)
+![Profile Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ft11235813213455-t%2Fstats%2Fpublic&query=profile.views&label=Profile%20Views&color=blue)
 
 <!--
 Here are some ideas to get you started:
