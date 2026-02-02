@@ -9,6 +9,8 @@
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
+---
+
  ### :woman_student: Online courses I have completed:
 [![Git and GitHub Basics](https://img.shields.io/badge/Git_and_GitHub_Basics-purple?logo=Git_and_GitHub_Basics)](https://stepik.org/cert/3113065?lang=en)
 
@@ -18,7 +20,9 @@
 
 [![Java. Bacis course](https://img.shields.io/badge/Java_Basic_course-red?logo=Java_Basic_course)](https://stepik.org/cert/3098128?lang=en)
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ft11235813213455-t%2Fstats%2Fpublic&query=profile.views&label=Profile%20Views&color=blue)
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=t11235813213455-t&label=Profile%20views&color=0e75b6&style=flat" alt="t11235813213455-t" /> </p>
 
 <!--
 Here are some ideas to get you started:
