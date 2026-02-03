@@ -11,10 +11,11 @@
 ---
 
  ### :woman_student: Online courses I have completed:
+[![Software testing: Autotests for API with Java, REST Assured and TestNG](https://img.shields.io/badge/Software_testing%3A_Autotests_for_API_with_Java%2C_REST_Assured_and_TestNG-black?logo=Software_testing_Autotests_for_API_with_Java_REST_Assured_and_TestNG)](https://stepik.org/cert/3119270?lang=en) 
 [![Git and GitHub Basics](https://img.shields.io/badge/Git_and_GitHub_Basics-purple?logo=Git_and_GitHub_Basics)](https://stepik.org/cert/3113065?lang=en)
 [![Test automation using Selenium and Python](https://img.shields.io/badge/Test_automation_using_Selenium_and_Python-blue?logo=Test_automation_using_Selenium_and_Python)](https://stepik.org/cert/3021662?lang=en)
 [![Interactive SQL simulator](https://img.shields.io/badge/Interactive_SQL_simulator-green?logo=Interactive_SQL_simulator)](https://stepik.org/cert/3070618?lang=en)
-[![Java. Bacis course](https://img.shields.io/badge/Java_Basic_course-red?logo=Java_Basic_course)](https://stepik.org/cert/3098128?lang=en)
+[![Java. Bacis course](https://img.shields.io/badge/Java%2E_Basic_course-red?logo=Java%2E_Basic_course)](https://stepik.org/cert/3098128?lang=en)
 
 ---
 
