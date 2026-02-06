@@ -16,6 +16,7 @@
 [![Test automation using Selenium and Python](https://img.shields.io/badge/Test_automation_using_Selenium_and_Python-blue?logo=Test_automation_using_Selenium_and_Python)](https://stepik.org/cert/3021662?lang=en)
 [![Interactive SQL simulator](https://img.shields.io/badge/Interactive_SQL_simulator-green?logo=Interactive_SQL_simulator)](https://stepik.org/cert/3070618?lang=en)
 [![Java. Bacis course](https://img.shields.io/badge/Java%2E_Basic_course-red?logo=Java%2E_Basic_course)](https://stepik.org/cert/3098128?lang=en)
+[![Software testing: Postman for API testing](https://img.shields.io/badge/Software_testing%3A_Postman_for_API_testing-aqua?logo=Software_testing%3A_Postman_for_API_testing-aqua)](https://stepik.org/cert/3123060?lang=en)
 
 ---
 
