@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Tatiana.
 
  ### :woman_technologist: About Me :
-  - :mag_right: I am currently studying QA automation tools.
+  - :mag_right: I am currently studying AI agents.
 
 ---
 
